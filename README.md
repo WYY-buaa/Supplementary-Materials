@@ -6,4 +6,4 @@ The supplementary materials include the following sections:
 (4) The simulation in different wind speeds.  
 More detailed representations can be found in the PDF file.
 
-
+PS: If there are issues rendering the PDF document, you may try refreshing the GitHub page several times. Alternatively, you can access the document via the following link: https://drive.google.com/drive/home?hl=zh
